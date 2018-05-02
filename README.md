@@ -1,5 +1,6 @@
-# engs90biathlon
-An app written for Engs 90 in partnership with the US Biathlon Team.
+# Biathlon Performance Analysis Tool
+**George Hito, Graeme Gengras, Ben Dobbins Shuoqi Chen, Carter Noordsij**
+An app written in partnership with the US Biathlon Team.
 
 ![GUI](/assets/gui.png)
 
